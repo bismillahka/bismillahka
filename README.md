@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Front-end Web Developer with over 3 years of experience, I have worked with clients from all over the World.<br>I have worked as a Freelance Web Developer on Fiverr for the last 3 years. I build Professional and SEO-oriented Websites assisting in representing your Brand 24/7 while delivering great User Experiences.<br><br>I will transform your dream website concept into Reality!
+I'm Bismillah KA a young programmer, entrepreneur and digital enthusiast. I provide exceptional web development services for forward-thinking individuals and companies. I believe that technology is key to human life and if developed correctly could change our world for the better.
 
 
 ## 🌐 Socials:
