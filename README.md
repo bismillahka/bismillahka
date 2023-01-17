@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Bismillah KA a young programmer, entrepreneur and digital enthusiast. I provide exceptional web development services for forward-thinking individuals and companies. I believe that technology is key to human life and if developed correctly could change our world for the better.
+I am a web developer with over 1 year of experience in the industry. I have a strong foundation in HTML, CSS, and WordPress and have experience working with clients on various web development projects. I have been working as a senior web developer at a UK-based digital marketing agency, where I was responsible for the development and maintenance of client websites.
+
+My focus is to deliver high-quality work, keeping an eye for detail and providing the best solution for the client's requirement. I am always looking for ways to improve my skills and stay up-to-date with the latest web development trends.
+
+I am excited to connect with other professionals in the industry and explore new opportunities. My goal is to continue to grow as a web developer and make a positive impact in the industry.
 
 
 ## 🌐 Socials:
